@@ -14,6 +14,6 @@ I re-implement two experiments in this paper:
  twouser.py simulates two user transmission..
  
  
- Note:results sames to be different compred to figure in paper. be careful!!!!! 
+ Note:results sames to be different compared to figure in paper. be careful!!!!! 
  
- ![Image text]（https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer/blob/master/paper1.png）
+ ![Image text]（https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer/raw/master/paper1.png）
