@@ -26,12 +26,10 @@ I re-implement two experiments in this paper:
    
    without aplha(alpha=0.5)
    
-   
-   
-    ![Image text](https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer/raw/master/paper5.png)
-     ![Image text](https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer/raw/master/paper6.png)
+   ![Image text](https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer/raw/master/paper5.png)
+   ![Image text](https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer/raw/master/paper6.png)
      
-     result of two user
+   result of two user
      
      
-      ![Image text](https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer/raw/master/paper7.png)
+   ![Image text](https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer/raw/master/paper7.png)
